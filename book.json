@@ -1,0 +1,28 @@
+{
+    "plugins": [
+        "simple-mind-map",
+        "summary",
+        "splitter",
+        "favicon"
+    ],
+    "pluginsConfig": {
+        "simple-mind-map": {
+            "type": "markdown",
+            "preset": "colorful",
+            "linkShape": "diagonal",
+            "autoFit": true,
+            "style": {
+                "height":  "350px"
+            }
+        },
+        "favicon": {
+            "shortcut": "assets/images/favicon.ico",
+            "bookmark": "assets/images/favicon.ico",
+            "appleTouch": "assets/images/favicon.png",
+            "appleTouchMore": {
+                "120x120": "assets/images/favicon.png",
+                "180x180": "assets/images/favicon.png"
+            }
+        }
+    }
+}
