@@ -1,13 +1,4 @@
 
-## Assets
+## Python爬虫
 
-- [Images]()
-
-## Marketing
-
-
-## OilCard
-
-- [接口给的示例](oilCard/接口给的示例.md)
-
-## Table
+- [初始化](Python爬虫/初始化.md)
